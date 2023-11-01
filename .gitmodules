@@ -1,0 +1,9 @@
+[submodule "Documents/study-buddy/arduino-messaging-service"]
+	path = Documents/study-buddy/arduino-messaging-service
+	url = https://github.com/emirkaansari/arduino-messaging-service
+[submodule "Documents/study-buddy/study-buddy-arduino-side"]
+	path = Documents/study-buddy/study-buddy-arduino-side
+	url = https://github.com/emirkaansari/study-buddy-arduino-side
+[submodule "Documents/study-buddy/study-buddy-backend"]
+	path = Documents/study-buddy/study-buddy-backend
+	url = https://github.com/emirkaansari/study-buddy-backend
